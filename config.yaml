@@ -5,7 +5,7 @@ MetaDataFormat: yaml
 # build future entries so we can use them calendar style
 buildFuture: true
 Paginate: 300
-baseURL: "https://www.thenewdynamic.org"
+baseURL: "https://example.com"
 enableRobotsTXT: true
 googleAnalytics: ""
 languageCode: en-us
@@ -57,7 +57,7 @@ outputs:
     - HEADERS
     - REDIR
 params:
-  description: "Build Faster Better Websites with modern tools and techniques"
+  description: "Powered by Hugo base"
   logo: ""
 preserveTaxonomyNames: true
 sitemap:
