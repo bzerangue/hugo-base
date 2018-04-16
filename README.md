@@ -1,4 +1,4 @@
-git submodule add https://github.com/theNewDynamic-org/hugo-base-layouts.git themes/hugo-base-layouts
+git submodule add https://github.com/thenewdynamic-org/hugo-base-theme.git themes/hugo-base-layouts
 
 
 tools
