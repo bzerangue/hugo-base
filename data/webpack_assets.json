@@ -1,0 +1,9 @@
+{
+  "algolia": {
+    "js": "/dist/js/algolia.451a57f5f0791e37c9dc.js"
+  },
+  "app": {
+    "css": "/dist/css/app.cb40a63aabeea8f0f530.css",
+    "js": "/dist/js/app.bafa70c3db455dbc7790.js"
+  }
+}
